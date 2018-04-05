@@ -30,3 +30,7 @@ Extra Credit:
 - Graphically show the movements of the knight on the chessboard after the tour has been calculated. This must be done on an 8 x 8 chessboard. (50 points)
 - Calculate all possible closed Kinight's Tours (50 points)
 - Have the end-user enter a starting point and an ending point on the chessboard and have the program calculate a Knight's Tour between the two points (50 points)
+
+
+-----------
+New Link (4/5/18): https://ibmathsresources.com/2013/11/19/knights-tour/
